@@ -1,8 +1,7 @@
 =======
-GeoMob London, September 2014: Portable GIS- a brief introduction
+MCS Lancashire November 11th 2014: Beach Clean Review 2014
 =======
 
-Online version available [here](http://archaeogeek.github.io/geomob-portablegis) or grab the pdf from the source above
 
 
 
